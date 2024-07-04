@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @FelixBand
 - 👀 I’m interested in modding games and making apps
-- 🌱 I’m currently learning Lua and Python (very simple)
+- 🌱 I’m currently learning Lua, Python and Rust
